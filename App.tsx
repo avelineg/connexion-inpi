@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const BACKEND_URL = "https://siren-backend-xxxxx.onrender.com"; // Remplace par ton backend Render
+const BACKEND_URL = "https://check-vat-backend.onrender.com"; // Remplace par ton backend Render
 
 type InpiEntreprise = {
   siren: string;
